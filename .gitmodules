@@ -1,0 +1,6 @@
+[submodule "TodolistBackend"]
+	path = TodolistBackend
+	url = https://github.com/pawan43563/TodolistBackend
+[submodule "Todolist-Frontend-"]
+	path = Todolist-Frontend-
+	url = https://github.com/pawan43563/Todolist-Frontend-
